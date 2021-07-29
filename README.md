@@ -1,12 +1,19 @@
-### Hi there 👋, I am Apoorva Nagar
-<!-- ![](url) -->
+<h1 align="center">Hi 👋, I'm Apoorva Nagar</h1>
 
-#### *Pronouns:* she/her👩
-I am an undergraduate sophomore pursuing a bachelor's degree in Computer Science and Engineering. I have an interest in web development, particularly in the front-end, currently working on the same.
-Here are the few programming languages and frameworks, that I am familiar with:
+#### Pronouns: she/her👩
 
-**Skills:** <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" />
-<!--  C/ HTML5 / CSS3/ Python/ JS/ REACT JS/ BootStrap4/ Express -->
+<h3 align="center">Fast learner and a hard-working undergraduate student pursuing Bachelors in Technology in Computer Science and Engineering. I am passionate about coding and seeking possibilities where I can apply my knowledge in the field of web development and explore opportunities in the field of Computer Science.</h3>
 
-### Wanna connect? Here are my social media handles:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/APOORVANAGAR-2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/apoorva-nagar-251b9318b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/nagar248)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='25'>](mailto:apoorvanagar2002@gmail.com)  
+<!-- I am an undergraduate sophomore pursuing a bachelor's degree in Computer Science and Engineering. I have an interest in web development, particularly in the front-end, currently working on the same.
+Here are the few programming languages and frameworks, that I am familiar with: -->
+
+## Languages and Tools:
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+## Wanna connect? Here are my social-media handles:
+<p align="left">
+<a href="https://twitter.com/nagar248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagar248" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/apoorva-nagar-251b9318b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Apoorva Nagar" height="30" width="40" /></a>
+<a href="https://github.com/APOORVANAGAR-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="APOORVANAGAR-2002" height="30" width="40" /></a>
+<a href="https://leetcode.com/CODER_048/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder048" height="30" width="40" /></a>
+</p>

@@ -26,18 +26,19 @@ Here are the few programming languages and frameworks, that I am familiar with: 
 ## Profile stats📈:
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOORVANAGAR-2002&layout=compact&theme=dark" alt="Top Languages">
-</a>
-<a href="https://git.io/streak-stats">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=APOORVANAGAR-2002&theme=dark" alt="Github Streak">
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOORVANAGAR-2002&layout=compact&theme=dark" alt="Top Languages">
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=APOORVANAGAR-2002&theme=dark" alt="Github Streak">
+  </a>
 </div>
 
-## Wanna connect? Here are my social-media handles:
-<p align="left">
-<a href="https://twitter.com/nagar248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagar248" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/apoorva-nagar-251b9318b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Apoorva Nagar" height="30" width="40" /></a>
-<a href="https://github.com/APOORVANAGAR-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="APOORVANAGAR-2002" height="30" width="40" /></a>
-<a href="https://leetcode.com/CODER_048/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder048" height="30" width="40" /></a>
-</p>
+## Wanna connect? Here are my social-media handles👇:
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nagar248)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-nagar-251b9318b/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/APOORVANAGAR-2002)
+[![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/nagar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoorvanagar2002@gmail.com)
+

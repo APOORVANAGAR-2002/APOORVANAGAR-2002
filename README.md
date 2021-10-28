@@ -61,11 +61,13 @@ Here are the few programming languages and frameworks, that I am familiar with: 
 
 ## Volunteered as💼:
 
-- <b>Google Developer Student Clubs Lead, GDSC MUST:</b>
+- <pre><b>Google Developer Student Clubs Lead, GDSC MUST:</b>                                                       July 2021-Present</pre>
   - Established the official Google Developer Student Clubs in the college with 190+ community members. Managing events and helping to empower local community.
-- <b>Executive Member, CodeChef MUST:</b>
+
+- <pre><b>Executive Member, CodeChef MUST:</b>                                                                     Nov 2020 - Present</pre>
   - Delivered sessions teaching Competitive Programming topics in Code Chef MUST initiatives of ‘Kaizen’ and ‘Incipience’ receiving participation of over 40 students.
-- <b>Campus Lead, Code for Cause:</b>
+
+- <pre><b>Campus Lead, Code for Cause:</b>                                                                       Sept 2020 - Aug 2021</pre>
   - Delivered multiple sessions teaching DSA, tools like Git & GitHub and organising monthly empowerment series receiving participation of more than 30 students across all events.
 
 ## Recent Activity:

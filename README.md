@@ -4,7 +4,7 @@
   <h3> Pronouns: she/her👩</h3>
 </div>
 
-<h3 align="center">Fast learner and a hard-working undergraduate student pursuing Bachelors in Technology in Computer Science and Engineering. I am passionate about coding and seeking possibilities where I can apply my knowledge in the field of web development and explore opportunities in the field of Computer Science.</h3>
+<p align="center">Fast learner and a hard-working undergraduate student pursuing Bachelors in Technology in Computer Science and Engineering. I am passionate about coding and seeking possibilities where I can apply my knowledge in the field of web development and explore opportunities in the field of Computer Science.</h3>
 
 <!-- I am an undergraduate sophomore pursuing a bachelor's degree in Computer Science and Engineering. I have an interest in web development, particularly in the front-end, currently working on the same.
 Here are the few programming languages and frameworks, that I am familiar with: -->
@@ -42,3 +42,6 @@ Here are the few programming languages and frameworks, that I am familiar with: 
 [![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/nagar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoorvanagar2002@gmail.com)
 
+## Recent Activity:
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->

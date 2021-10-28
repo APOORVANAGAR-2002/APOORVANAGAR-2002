@@ -42,6 +42,32 @@ Here are the few programming languages and frameworks, that I am familiar with: 
 [![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/nagar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoorvanagar2002@gmail.com)
 
+## Projects💻:
+
+<table>
+  <tr>
+    <th>Project Title</th>
+    <th>Desciption</th>
+  </tr>
+  <tr>
+    <td>Accessories Simulator</td>
+    <td>A web-based application to simulate accessories in the real time. Developed using HTML5, CSS3 as front-end and flask as back-end. Incorporated machine learning and computer vision to help in real time trial of accessories for the user.</td>
+  </tr>
+  <tr>
+    <td>Breast Cancer Predictor</td>
+    <td>A web-based project that can help predicting the Breast Cancer in women based on the input data</td>
+  </tr>
+</table>
+
+## Volunteered as💼:
+
+- <b>Google Developer Student Clubs Lead, GDSC MUST:</b>
+  - Established the official Google Developer Student Clubs in the college with 190+ community members. Managing events and helping to empower local community.
+- <b>Executive Member, CodeChef MUST:</b>
+  - Delivered sessions teaching Competitive Programming topics in Code Chef MUST initiatives of ‘Kaizen’ and ‘Incipience’ receiving participation of over 40 students.
+- <b>Campus Lead, Code for Cause:</b>
+  - Delivered multiple sessions teaching DSA, tools like Git & GitHub and organising monthly empowerment series receiving participation of more than 30 students across all events.
+
 ## Recent Activity:
 <!-- START_SECTION:activity -->
 <!-- END_SECTION:activity -->

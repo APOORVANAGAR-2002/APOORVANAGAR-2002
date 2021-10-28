@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apoorva Nagar</h1>
+![Header Image](https://github.com/APOORVANAGAR-2002/APOORVANAGAR-2002/blob/main/github%20header.gif)
 
 #### Pronouns: she/her👩
 

@@ -71,5 +71,5 @@ Here are the few programming languages and frameworks, that I am familiar with: 
   - Delivered multiple sessions teaching DSA, tools like Git & GitHub and organising monthly empowerment series receiving participation of more than 30 students across all events.
 
 ## Recent Activity:
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

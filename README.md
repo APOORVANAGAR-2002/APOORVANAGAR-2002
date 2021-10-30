@@ -69,7 +69,3 @@ Here are the few programming languages and frameworks, that I am familiar with: 
 
 - <pre><b>Campus Lead, Code for Cause:</b>                                                                   Sept 2020 - Aug 2021</pre>
   - Delivered multiple sessions teaching DSA, tools like Git & GitHub and organising monthly empowerment series receiving participation of more than 30 students across all events.
-
-## Recent Activity:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->

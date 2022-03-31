@@ -50,6 +50,10 @@ Here are the few programming languages and frameworks, that I am familiar with: 
     <th>Desciption</th>
   </tr>
   <tr>
+    <td>Contacto</td>
+    <td>A developer hiring website built using React.js is a marketplace cum skillset showcase platform that connects the developers with interested hirers.</td>
+  </tr>
+  <tr>
     <td>Accessories Simulator</td>
     <td>A web-based application to simulate accessories in the real time. Developed using HTML5, CSS3 as front-end and flask as back-end. Incorporated machine learning and computer vision to help in real time trial of accessories for the user.</td>
   </tr>

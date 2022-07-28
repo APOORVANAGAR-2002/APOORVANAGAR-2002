@@ -22,6 +22,10 @@ Here are the few programming languages and frameworks, that I am familiar with: 
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ## Profile stats📈:
 
@@ -50,6 +54,10 @@ Here are the few programming languages and frameworks, that I am familiar with: 
     <th>Desciption</th>
   </tr>
   <tr>
+    <td>HealFitNest</td>
+    <td>An ecommerce web app store, a one-stop place to all the organic products.</td>
+  </tr>
+  <tr>
     <td>Contacto</td>
     <td>A developer hiring website built using React.js is a marketplace cum skillset showcase platform that connects the developers with interested hirers.</td>
   </tr>
@@ -65,10 +73,10 @@ Here are the few programming languages and frameworks, that I am familiar with: 
 
 ## Volunteered as💼:
 
-- <pre><b>Internship trainee, Target Upcurve:</b>                                                               March 2022-Present</pre>
+- <pre><b>Internship trainee, Target Upcurve:</b>                                                               March 2022 - Present</pre>
   - A 12-16-week program provides women candidates an opportunity to gain relevant work experience, while being part of collaborative teams.
 
-- <pre><b>Google Developer Student Clubs Lead, GDSC MUST:</b>                                                   July 2021-Present</pre>
+- <pre><b>Google Developer Student Clubs Lead, GDSC MUST:</b>                                                   July 2021 - June 2022</pre>
   - Established the official Google Developer Student Clubs in the college with 190+ community members. Managing events and helping to empower local community.
 
 - <pre><b>Executive Member, CodeChef MUST:</b>                                                                 Nov 2020 - Jan 2022</pre>
